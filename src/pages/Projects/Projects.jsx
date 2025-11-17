@@ -33,22 +33,22 @@ const projects = [
     liveLink: "https://geniusplanai-saravanan.streamlit.app/",
   },
   {
-    title: "🎥 YouTube Multi-Lingual Transcription",
+    title: "🎥 Video- Multi-Lingual Transcription and Summarization",
     description:
-      "An AI tool that transcribes YouTube videos into multiple languages using Whisper AI & NLP pipelines.",
+      "An AI tool that transcribes videos into multiple languages using Whisper AI & NLP pipelines.",
     src: "/projects/youtube.png",
     color: "#facc15",
-    githubLink: "https://github.com/SaRaVaNaN0504",
+    githubLink: "https://github.com/SaRaVaNaN0504/Video-summarizer-tool/tree/main",
     liveLink: "https://your-live-youtube-tool-link.com",
   },
   {
-    title: "🌱 Leaf Disease Detection (CNN Model)",
+    title: "🌐 Personal Portfolio Website (React + Tailwind + Vercel)",
     description:
-      "A deep learning CNN model for detecting plant leaf diseases with high accuracy using image classification.",
-    src: "/projects/leaf.png",
+      "A modern, fully responsive personal portfolio built using React, Tailwind CSS, Vite, and Framer Motion. Features smooth animations, a certification gallery, multi-page routing, and a projects showcase.",
+    src: "/projects/portfolio.png",
     color: "#34d399",
-    githubLink: "https://github.com/SaRaVaNaN0504",
-    liveLink: "https://your-research-paper-link.com",
+    githubLink: "https://github.com/SaRaVaNaN0504/Personal_portfolio",
+    liveLink: "https://portfolio-saravanan-k.vercel.app/",
   },
 ];
 

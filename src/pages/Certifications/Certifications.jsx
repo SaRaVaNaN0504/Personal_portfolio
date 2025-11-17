@@ -39,6 +39,16 @@ export default function Certifications() {
       image: "/certifications/oracle_oci_genai.png",
       link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=ABC306688A21ED27C823DCB4338801EB5DB1D1875BEA12E1AFBEAA0CA092CC96",
     },
+     {
+      title: "Oracle AI Vector Search Certified Professional",
+      image: "/certifications/ai_vector.png",
+      link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=D0177E98943B65EA4ACAED7E72EA1E916918DA328B124F74119D01B0D63F9F38", 
+    },
+    {
+      title: "OCI 2025 Certified Data Science Professional",
+      image: "/certifications/data_science.png",
+      link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=B715D09BA6246A86E804843C2F4D3EB5F9FD594778321BF873869F839184AA26", 
+    },
 
     // --- MID PRIORITY: AI Workshops, Simulations, Company Programs ---
     {

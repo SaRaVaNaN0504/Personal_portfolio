@@ -57,7 +57,7 @@ const ExperienceSection = () => {
     icon: Cpu,
     title: "AI & ML Intern",
     company: "iOPEX Technologies",
-    period: "Jan 2025 - Present",
+    period: "JULY 2025 - OCT 2025",
     description:
       "Working on developing an agentic tool — 'Excel to PPT' — that automates business workflows by transforming structured data into professional presentations. Contributing to model design, backend integration, and deployment.",
   },
@@ -71,7 +71,7 @@ const ExperienceSection = () => {
   },
   {
     icon: Layers,
-    title: "Freelance & Academic Work",
+    title: "Academic Work",
     company: "Self-driven",
     period: "2020 - 2022",
     description:
