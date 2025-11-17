@@ -5,6 +5,8 @@
 
 **Live demo:** [https://portfolio-saravanan-k.vercel.app/](https://portfolio-saravanan-k.vercel.app/)
 
+
+
 This repository is a Vite + React + Tailwind CSS personal portfolio website that showcases projects, skills, contact information, and a short bio.
 
 ---
@@ -34,9 +36,11 @@ This is my personal portfolio website intended to present my projects, skills, a
 ## Live Demo
 
 View the live site here: [https://portfolio-saravanan-k.vercel.app/](https://portfolio-saravanan-k.vercel.app/)
+
+---
 <img width="1918" height="786" alt="image" src="https://github.com/user-attachments/assets/23e3fdfb-c4d0-4d80-9ef3-214b0d1e195a" />
 
-
+---
 ## Tech stack
 
 * **Framework:** React (Vite)
