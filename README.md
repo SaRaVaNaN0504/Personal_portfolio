@@ -163,4 +163,4 @@ This repo is open for others to fork. Add a LICENSE file if you want a specific 
 
 ---
 
-* This project is made with :heart: *
+*This project is made with :heart:*
