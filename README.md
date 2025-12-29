@@ -8,6 +8,7 @@
 
 This repository is a Vite + React + Tailwind CSS personal portfolio website that showcases projects, skills, contact information, and a short bio.
 
+
 ---
 
 ## Table of contents
